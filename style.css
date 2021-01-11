@@ -5,3 +5,14 @@
     background-color: #fceae8;
     border-radius: 10px;
 }
+.buy-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: white;
+    padding: 8px 25px;
+    border-radius: 5px;
+    border: none;
+}
+.buy-btn:hover{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border: none;
+}
