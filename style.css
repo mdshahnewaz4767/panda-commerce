@@ -21,9 +21,12 @@
 a{
     text-decoration: none;
 }
-#contact{
+#subscribe{
     height: 300px;
 }
-#contact h6{
+#subscribe h6{
     color: grey;
+}
+.categories img{
+    width: 100px;
 }
