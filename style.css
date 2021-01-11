@@ -1,5 +1,7 @@
-.container{
-    margin-bottom: 100px;
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 .orange-bg{
     background-color: #fceae8;
@@ -15,4 +17,7 @@
 .buy-btn:hover{
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
     border: none;
+}
+.carousel-item{
+    padding: 0px 40px;
 }
