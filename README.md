@@ -1,1 +1,1 @@
-# Panda-Ecommerce-Template-Bootstrap
+# panda-commerce

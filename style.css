@@ -30,3 +30,14 @@ a{
 .categories img{
     width: 100px;
 }
+.carousel-indicators li{
+    background-color: black !important;
+}
+.navigation{
+   justify-content: flex-end;
+}
+.navbar-nav a{
+    padding: 8px 28px !important;
+    font-weight: 500;
+    font-size: 17px;
+}
